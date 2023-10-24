@@ -1,0 +1,11 @@
+C:\Users\23138\source\repos\BlackScreen\BlackScreen\bin\Debug\BlackScreen.exe.config
+C:\Users\23138\source\repos\BlackScreen\BlackScreen\bin\Debug\BlackScreen.exe
+C:\Users\23138\source\repos\BlackScreen\BlackScreen\bin\Debug\BlackScreen.pdb
+C:\Users\23138\source\repos\BlackScreen\BlackScreen\obj\Debug\BlackScreen.csproj.AssemblyReference.cache
+C:\Users\23138\source\repos\BlackScreen\BlackScreen\obj\Debug\BlackScreen.csproj.SuggestedBindingRedirects.cache
+C:\Users\23138\source\repos\BlackScreen\BlackScreen\obj\Debug\BlackScreen.Form1.resources
+C:\Users\23138\source\repos\BlackScreen\BlackScreen\obj\Debug\BlackScreen.Properties.Resources.resources
+C:\Users\23138\source\repos\BlackScreen\BlackScreen\obj\Debug\BlackScreen.csproj.GenerateResource.cache
+C:\Users\23138\source\repos\BlackScreen\BlackScreen\obj\Debug\BlackScreen.csproj.CoreCompileInputs.cache
+C:\Users\23138\source\repos\BlackScreen\BlackScreen\obj\Debug\BlackScreen.exe
+C:\Users\23138\source\repos\BlackScreen\BlackScreen\obj\Debug\BlackScreen.pdb
